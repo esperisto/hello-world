@@ -8,4 +8,6 @@ My name is Chigo.
 
 Kio estas via nomo?
 
-Mia nomo estas Ĉigo
+Mia nomo estas Ĉigo.
+
+added on the net
